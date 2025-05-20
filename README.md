@@ -45,7 +45,7 @@ ecommerce/
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/amannegidev/MERN-mart.git)
 cd your-repo-name
 
 Replace your-username and your-repo-name with your actual GitHub username and repository name.
